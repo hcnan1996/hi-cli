@@ -46,7 +46,7 @@ function registerCommand() {
   if (args._.length < 1) {
     program.outputHelp();
   }
-  // if (args._.length < 1) {}
+  // if (args._.length < 1) {}222
 }
 function checkPkgVersion() {
   log.notice("cli", pkg.version);
