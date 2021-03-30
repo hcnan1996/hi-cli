@@ -16,7 +16,7 @@ let config;
 function core() {
   prepare();
   registerCommand();
-  // TODO111
+  // TODO11122
   //   console.log("hi studty");
 }
 function prepare() {
